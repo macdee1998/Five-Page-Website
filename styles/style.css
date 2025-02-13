@@ -21,7 +21,7 @@ nav h1 a:hover{
 }
 .navbar{
     display: flex;
-    height: 30px;
+    height: 60px;
     justify-content: space-between;
     align-items: center;
     background: linear-gradient(
